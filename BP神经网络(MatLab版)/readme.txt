@@ -1,0 +1,1 @@
+令BP.m、LabelPreprocess.m、forTest_BP.mat位于同一目录下，直接运行BP.m即可
